@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keshavgituser
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning JavaEnterpriseEdition Full Stack  with React JS
+- 🌱 I’m currently completing Google Data Analytics Certificate
 - 💞️ I’m looking to collaborate on Esports Data ANalysis
 - 📫 How to reach me kesparad@gmail.com
 
