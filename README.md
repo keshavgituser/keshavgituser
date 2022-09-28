@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keshavgituser
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently completing Google Data Analytics Certificate
-- 💞️ I’m looking to collaborate on Esports Data ANalysis
+- 👀 I’m a Spring boot Developer
+- 🌱 I’m currently Learning Fullstack Blockchain 
+- 💞️ I’m looking to collaborate on Development Projects
 - 📫 How to reach me kesparad@gmail.com
 
 <!---
